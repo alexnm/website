@@ -1,0 +1,98 @@
+{
+    "upcoming": [
+        {
+            "name": "ReactiveConf Prague 2018",
+            "link": "https://reactiveconf.com/"
+        },
+        {
+            "name": "ReactDay Berlin 2018",
+            "link": "https://reactday.berlin/"
+        }
+    ],
+    "previous": [
+        {
+            "name": "DevIT Thessaloniki 2018",
+            "title": "Evolving Patterns in React - workshop"
+        },
+        {
+            "name": "DevTalks Bucharest 2018",
+            "title": "We need to talk about GraphQL",
+            "slides": "https://slides.com/alexmoldovan/deck-8-12-21"
+        },
+        {
+            "name": "ITCamp Cluj 2018",
+            "title": "Game of Performance",
+            "slides": "https://slides.com/alexmoldovan/deck-8-9556a014-3018-468f-b83c-fe9829f4f271-19"
+        },
+        {
+            "name": "InfoShare.pl Gdansk 2018",
+            "title": "Game of Performance",
+            "slides": "https://slides.com/alexmoldovan/deck-8-9-18",
+            "video": "https://www.youtube.com/watch?v=0ViSa7lOqP8"
+        },
+        {
+            "name": "DevTalks Cluj 2018",
+            "title": "We need to talk about GraphQL",
+            "slides": "https://slides.com/alexmoldovan/deck-8-12",
+            "video": "https://www.youtube.com/watch?v=SRtngB9tN64"
+        },
+        {
+            "name": "JSHeroes 2018",
+            "title": "Welcome JSHeroes",
+            "slides": "",
+            "video": "https://www.youtube.com/watch?v=auk6adQLfgk"
+        },
+        {
+            "name": "Codecamp Timisoara 2017",
+            "title": "Game of Performance",
+            "slides": "https://slides.com/alexmoldovan/deck-8-9556a014-3018-468f-b83c-fe9829f4f271"
+        },
+        {
+            "name": "Codecamp Cluj 2017",
+            "title": "Game of Performance",
+            "slides": "https://slides.com/alexmoldovan/deck-8-9556a014-3018-468f-b83c-fe9829f4f271"
+        },
+        {
+            "name": "JSHeroes 2017",
+            "title": "Is JavaScript making us better professionals?",
+            "slides": "https://slides.com/alexmoldovan/is-javascript-making-you-a-better-professional",
+            "video": "https://youtu.be/O7pnOru0S3E?t=2m23s"
+        },
+        {
+            "name": "Codecamp Iasi 2017",
+            "title": "Fun and Practical JavaScript"
+        },
+        {
+            "name": "DevTalks Cluj 2017",
+            "title": "Taking React to the Next Level",
+            "slides": "https://slides.com/alexmoldovan/deck-8",
+            "video": "https://www.youtube.com/watch?v=PDAWpBuLI1Y&feature=youtu.be&t=4h40m57s"
+        },
+        {
+            "name": "Codecamp Cluj 2016",
+            "title": "Start Writing Modern JavaScript",
+            "slides": "https://alexnm.github.io/"
+        },
+        {
+            "name": "We Speak JS 2016",
+            "title": "React Beyond a TodoApp",
+            "slides": "https://slides.com/alexmoldovan/we-speak-js"
+        },
+        {
+            "name": "ITCamp 2016",
+            "title": "Component Based UI Architecture",
+            "slides": "https://slides.com/alexmoldovan/deck-4"
+        },
+        {
+            "name": "DevTalks Cluj 2016",
+            "title": "Supercharge your JavaScript skills with Functional Programming",
+            "slides": "https://slides.com/alexmoldovan/deck-3",
+            "video": "https://www.youtube.com/watch?v=JBFoZdZ6OR8"
+        },
+        {
+            "name": "Hello.js 2016",
+            "title": "Re-architecting the Frontend with Flux",
+            "slides": "https://slides.com/alexmoldovan/deck"
+        }
+    ]
+}
